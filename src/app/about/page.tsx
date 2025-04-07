@@ -13,16 +13,16 @@ export default function Home() {
       <div >
         
         <div>
-        <Image className="flex p-3 ml-10 mt-8 " src={Aiy} width={150} height={50} alt="Image Pictrue"/>Mr.Lattaphone
+        <Image className="flex p-3 ml-10 mt-8 " src={Aiy} width={150} height={50} alt="Image Pictrue"/>Mr.Lattaphone (ເຮັດເເຕ່ຫນ້າAbout ຫນ້າcomponent ແລະ sign in)
         </div>
         <div>
-        <Image className="flex p-3 ml-10 mt-8 " src={Aily} width={250} height={150} alt="Image Pictrue"/>Miss.Alinod
+        <Image className="flex p-3 ml-10 mt-8 " src={Aily} width={250} height={150} alt="Image Pictrue"/>Miss.Alinod (ບໍ່ເຫັນມາຮຽນ)
         </div>
         <div>
-        <Image className="flex p-3 ml-10 mt-8 " src={parn} width={250} height={150} alt="Image Pictrue"/>Miss.phonesanith
+        <Image className="flex p-3 ml-10 mt-8 " src={parn} width={250} height={150} alt="Image Pictrue"/>Miss.phonesanith (ບໍ່ໄດ້ເຮັດ)
         </div>
         <div>
-        <Image className="flex p-3 ml-10 mt-8 " src={khamfong} width={250} height={150} alt="Image Pictrue"/>Miss.khamfong
+        <Image className="flex p-3 ml-10 mt-8 " src={khamfong} width={250} height={150} alt="Image Pictrue"/>Miss.khamfong (ຫນ້າສະເປັກຄອມ)
         </div>
       </div>
     </div>

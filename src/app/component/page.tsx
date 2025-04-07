@@ -11,7 +11,7 @@ export default function Component() {
             <Image className="fiex-1 ml-10" src={Screen} width={150} height={50} alt="Image Pictrue"/>
             <h1 className="fiex-1 ml-10 mt-8 "><Link href="../about">About</Link></h1>
             <h1 className="fiex-1 ml-10 mt-8"><Link href="#">ອຸປະກອນຕອມພິວເຕີ້ V</Link></h1>
-            <h1 className="fiex-1 ml-10 mt-8"><Link href="#">ສະເປັກຄອມ V</Link></h1>
+            <h1 className="fiex-1 ml-10 mt-8"><Link href="../space">ສະເປັກຄອມ V</Link></h1>
             <h1 className="fiex-1 ml-10 mt-8"><Link href="#">ສີນຄາພ້ອມສົ່ງ V</Link></h1>
             <h1 className="fiex-1 ml-10 mt-8"><Link href="#"> ລາຍການທັງໝົດ V</Link></h1>
                 <div className="flex ml-10 mt-8">
