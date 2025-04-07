@@ -1,7 +1,5 @@
 
 import Image from "next/image";
-import Facebook from '../image/iconsfacebook.png';
-import Google from '../image/iconsgoogle.svg';
 import Screen from "../image/logo.png";
 import Face from "../image/iconsfacebook.png";
 import google from "../image/iconsgoogle.png";
